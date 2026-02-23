@@ -35,4 +35,4 @@ async def flip(ctx):
 
     risultato = flip_coin()
     await ctx.send(f"La moneta cade su: {risultato}")
-bot.run("")
+bot.run("test")
